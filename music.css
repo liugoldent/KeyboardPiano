@@ -1,0 +1,130 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body *{
+    font-family: serif;
+    font-size:20px;
+}
+
+#ex{
+    position:relative;
+    margin:0px auto;
+    height:893px;
+}
+
+#ex #five{
+    display: block;
+    margin:auto;
+}
+
+#musicicon{
+    position:relative;
+    margin:0px auto;
+    text-align:center;
+}
+
+
+#bg{
+    background-image: url(https://i.imgur.com/kCHQD1L.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-position: center;
+    height: 900px;
+    max-width: auto;
+}
+
+
+
+#content1{
+    position: relative;
+    top:17%;
+    right:5%;
+    width:1050px;
+    margin:0px auto;
+    border:0px;
+    padding:0px;
+}
+
+#content2{
+    position: relative;
+    top:17%;
+    width:1050px;
+    margin:0px auto;
+    border:0px;
+    padding:0px;
+}
+
+#content3{
+    position: relative;
+    top:17%;
+    right:-5%;
+    width:1050px;
+    margin:0px auto;
+    border:0px;
+    padding:0px;
+}
+
+button.piano{
+    height:125px;
+    width:125px;
+    margin:10px;
+    opacity:0.8;
+    border-radius: 10px;
+}
+
+.Music{
+    display:none;
+}
+
+body #section5{
+    background-image:url(https://i.imgur.com/WiHcgRVh.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-position: center;
+    height: 400px;;
+    max-width: 100%;
+}
+
+#section5_text{
+    position:relative;
+    margin:0px auto;
+    color:antiquewhite;
+    text-align:center;
+    top:25%;
+    word-spacing:10px;
+}
+
+#section5_icon{
+    position:relative;
+    margin:0px auto;
+    color:antiquewhite;
+    text-align:center;
+    top:25%;
+    word-spacing:20px;
+}
+
+
+
+
+
+#footer{
+    background-color:black;
+    height:100px;
+    max-width: 100%;
+    position:relative;
+    margin:0px auto;
+    color:antiquewhite;
+    text-align:center;
+}
+
+#copyright{
+    position:relative;
+    top:30%;
+}
+
+#section5_icon *:hover{
+    color:peachpuff;
+}
