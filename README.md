@@ -6,10 +6,15 @@
 # 指引
 ![跟著圖片的指引鍵入）](./five.jpg)
 
+1. Goes up an octare：高八度，所需之按鈕。
+
+2. Original：正常一般音域。
+
+3. Allotare bassa：低八度，所需之按鈕
+
 ## 相關連結（Links）
 
-1. [從零開始學 ReactJS（ReactJS 101）粉絲頁](https://www.facebook.com/reactjs101/)
-
+1. [KeyboardPiano](https://liugoldent.github.io/KeyboardPiano/music.html)
 
 
 ## Using
