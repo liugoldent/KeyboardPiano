@@ -304,3 +304,11 @@ function UpFunction() {
 }
 document.onkeydown=GoFunction;
 document.onkeyup=UpFunction;
+
+
+var width=document.body.clientWidth;
+console.log(width);
+if(width<1375){
+    alert("Your screen is too small. Don't use this app");
+    document.location.href='https://liugoldent.github.io/LgtProfile/profile.html';
+}
